@@ -1,0 +1,1 @@
+split RGB channels, then reconstruct the colored image with those channels
